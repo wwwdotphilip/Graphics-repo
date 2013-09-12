@@ -1,2 +1,2 @@
-inventory-app-graphics
+floyd's-app-graphics
 ======================
