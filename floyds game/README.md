@@ -1,3 +1,3 @@
-FLoyd's app
+Floyd's app
 =============
 
