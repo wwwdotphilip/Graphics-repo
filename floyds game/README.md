@@ -1,2 +1,0 @@
-inventory-app-graphics
-======================
